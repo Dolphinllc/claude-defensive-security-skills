@@ -1,5 +1,7 @@
 # Claude Defensive Security Skills
 
+🇯🇵 日本語版: [README.ja.md](./README.ja.md)
+
 Defensive security skills for [Claude Code](https://docs.claude.com/en/docs/claude-code) and the [Claude Agent SDK](https://docs.claude.com/en/api/agent-sdk), focused on protecting **modern web applications** and **generative AI systems**.
 
 These skills equip Claude with reusable, opinionated playbooks for hardening code, reviewing changes, and responding to incidents — *without* offensive tradecraft.
